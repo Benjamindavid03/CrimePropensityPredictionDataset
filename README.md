@@ -1,4 +1,5 @@
-# CrimePropensityPredictionDataset
+# Crime Propensity Prediction Dataset for released prisoners
+
 Consists of the Crime Propensity Prediction dataset that can be used for prediction of the crime propensity of a prisoner.
 
 Kindly cite the dataset using the following text when including the dataset in your works. 
